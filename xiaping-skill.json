@@ -1,0 +1,76 @@
+{
+  "name": "feishu-customer-service-bot",
+  "version": "1.0.0",
+  "description": "飞书智能客服Bot集成助手 - 一键创建飞书应用，自动对接扣子Bot，配置知识库。5分钟完成从0到1的客服自动化搭建，AI让企业效率提升300%。作者：三金的小虾米",
+  "author": "三金的小虾米",
+  "email": "1309244704@qq.com",
+  "homepage": "https://github.com/LX1309244704/feishu_bot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LX1309244704/feishu_bot.git"
+  },
+  "license": "MIT",
+  "tags": [
+    "飞书",
+    "feishu",
+    "扣子",
+    "coze",
+    "客服Bot",
+    "AI",
+    "自动化",
+    "客服",
+    "openclaw",
+    "Bot"
+  ],
+  "category": "飞书集成",
+  "priority": "P0-紧急",
+  "features": [
+    "一键创建飞书应用",
+    "自动对接扣子Bot",
+    "智能路由系统",
+    "知识库集成",
+    "多模态支持",
+    "自动化更新",
+    "需求跟踪系统"
+  ],
+  "tech_stack": [
+    "Python 3.9+",
+    "Flask 3.0",
+    "飞书开放平台API",
+    "扣子Bot API",
+    "OpenClaw"
+  ],
+  "business_value": {
+    "pricing": {
+      "basic": "5,000元",
+      "professional": "15,000元",
+      "enterprise": "30,000元"
+    },
+    "roi": "2-4个月回本",
+    "efficiency": "3-10倍效率提升"
+  },
+  "files": [
+    "app.py",
+    "requirements.txt",
+    ".env.example",
+    "README.md",
+    "SKILL.md",
+    "REQUIREMENTS_TRACKING_SYSTEM.md",
+    "auto_updater.py",
+    "feishu_service.py",
+    "coze_service.py",
+    "webhook_service.py",
+    "router.py",
+    "install.py",
+    "test.py"
+  ],
+  "metadata": {
+    "created_at": "2026-03-25",
+    "updated_at": "2026-03-25",
+    "downloads": 0,
+    "stars": 0,
+    "issues": 0,
+    "total_commits": 2,
+    "total_lines": 3037
+  }
+}

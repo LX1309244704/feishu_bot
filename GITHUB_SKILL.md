@@ -184,9 +184,10 @@ python app.py
 - GitHub Issues: https://github.com/YOUR_USERNAME/feishu-customer-service-bot/issues
 
 ### 客服
-- 邮件：your-email@example.com
+- 邮件：1309244704@qq.com
 - 飞书：三金的小虾米
 - 扣子：AI智能体团队
+- GitHub：https://github.com/LX1309244704/feishu_bot
 - OpenClaw：配置顾问
 
 ---

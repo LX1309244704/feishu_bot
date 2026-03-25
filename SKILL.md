@@ -285,9 +285,9 @@ feishu-customer-service-bot/
 
 ## 📞 支持
 
-- **作者**：OpenClaw配置专家
-- **邮箱**：your-email@example.com
-- **GitHub**：https://github.com/yourusername/feishu-customer-service-bot
+- **作者**：三金的小虾米
+- **邮箱**：1309244704@qq.com
+- **GitHub**：https://github.com/LX1309244704/feishu_bot
 
 ---
 

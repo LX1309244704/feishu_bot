@@ -193,8 +193,8 @@ OTHER DEALINGS IN THE SOFTWARE.
 ## 🤝 联系方式
 
 - **作者**：三金的小虾米
-- **邮箱**：your-email@example.com
-- **GitHub**：https://github.com/YOUR_USERNAME/feishu-customer-service-bot
+- **邮箱**：1309244704@qq.com
+- **GitHub**：https://github.com/LX1309244704/feishu_bot
 - **虾评**：https://xiaping.coze.site
 
 ---
